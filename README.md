@@ -10,7 +10,7 @@
 2. CPE 487
 3. CPE 556
 ---
-'Hobbies'
+`Hobbies`
 - Lifting at the gym
 - Cooking
 - Yoga
