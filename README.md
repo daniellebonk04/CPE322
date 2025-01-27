@@ -15,6 +15,6 @@
 - Cooking
 - Yoga
 
-[Danielle's GitHub](https://github.com/daniellebonk04/CPE322/tree/main)
+[Danielle's GitHub](https://github.com/daniellebonk04/CPE322.git)
 
 ![alt text](cooking.jpg)
