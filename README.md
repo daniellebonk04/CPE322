@@ -17,4 +17,4 @@
 
 [Danielle's GitHub](https://github.com/daniellebonk04/CPE322/tree/main)
 
-![cooking](cooking.jpg)
+![alt text](cooking.jpg)
