@@ -1,24 +1,20 @@
 # CPE322
-Heading:	
-# H1
-## H2
-### H3
-Bold:	
-**bold text**
-Italic:	
-*italicized text*
-Blockquote:	
-> blockquote
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-Unordered List:
-- First item
-- Second item
-- Third item
-Code:
+## Design 6
+### Written By Danielle Bonk
+
+**Bachelor's of Engineering:**
+*Computer Engineering*
+
+> Current Courses
+1. CPE 462
+2. CPE 487
+3. CPE 556
+---
+> Hobbies
+- Lifting at the gym
+- Cooking
+- Yoga
 `code`
-Horizontal Rule:	---
-Link:	[title](https://www.example.com)
-Image:	![alt text](image.jpg)
+
+[Danielle's GitHub](https://www.example.com)
+![alt text](image.jpg)
