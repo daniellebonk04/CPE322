@@ -10,11 +10,10 @@
 2. CPE 487
 3. CPE 556
 ---
-> Hobbies
+'Hobbies'
 - Lifting at the gym
 - Cooking
 - Yoga
-`code`
 
 [Danielle's GitHub](https://www.example.com)
 ![alt text](image.jpg)
