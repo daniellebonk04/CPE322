@@ -1,6 +1,6 @@
 # CPE322
 ## Design 6
-### Written By Danielle Bonk
+### Written by Danielle Bonk
 
 **Bachelor's of Engineering:**
 *Computer Engineering*
