@@ -16,6 +16,7 @@
 - Yoga
 
 [Danielle's GitHub](https://github.com/daniellebonk04/CPE322.git)
+
 [Group Site](https://sites.google.com/stevens.edu/cpe-322-project-team-site/home)
 
 ![alt text](cooking.jpg)
