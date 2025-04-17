@@ -1,38 +1,38 @@
 # CPE 322-Lab3
 ## Python
-### Installation
+### Installation:
 Python was pre-installed on the Windows system used for this lab, with the terminal command python mapped to the Python 3 interpreter, rather than the conventional python3 used in UNIX-based systems. All necessary packages were installed via pip, and any additional dependencies not explicitly listed were automatically resolved and installed by Python during the execution of individual scripts.
 
 ---
 
-### Libraries 
-**jdcal:**
+### Libraries: 
+**jdcal**
 
 The jdcal library is designed for converting between Julian dates and standard Gregorian calendar dates. It provides functions to convert dates into Julian days and vice versa, which is essential for precise date arithmetic and astronomical computations. This is particularly useful in fields like astronomy and timekeeping, where Julian dates are often used for calculations over long periods.
 
-**astral:**
+**astral**
 
 astral is a Python library used to calculate key astronomical events such as sunrise, sunset, solar noon, and moon phases, based on a given geographic location. This library is highly beneficial for applications that need to know the timing of these events, such as in automation systems, outdoor scheduling, and solar energy optimization. It simplifies the process of working with solar and lunar data.
 ![alt text](jdcalandastra.png)
 
-**geopy:**
+**geopy**
 
 geopy provides tools for geocoding, which allows the conversion of an address into geographic coordinates (latitude and longitude), and reverse geocoding, which converts coordinates back into a human-readable address. This library supports multiple geocoding services like Nominatim, Google Maps, and OpenCage, making it versatile for location-based applications, mapping, and spatial analysis.
 ![alt text](geopy.png)
 
-**pytz:**
+**pytz**
 
 pytz is a Python library that allows accurate and timezone-aware date and time manipulation. It provides the ability to convert between different timezones, ensuring that time calculations account for timezone offsets, daylight saving time (DST), and other complexities. By using pytz, developers can ensure that their applications handle time correctly across various global regions, which is crucial for applications that involve scheduling, logging, or international data processing.
 ![alt text](pytz.png)
 
-**psutil:**
+**psutil**
 
 psutil (Python system and process utilities) is a cross-platform library used to retrieve information on running processes and system utilization, including CPU, memory, disk, network, and sensors. It provides detailed insights into system performance and can be used for system monitoring, diagnostics, and resource management. With psutil, developers can access real-time data about CPU usage, battery status, process IDs, memory consumption, and more—making it a powerful tool for writing performance-aware or system-integrated applications.
 ![alt text](psutil.png)
 
 ---
 
-### Scripts 
+### Scripts: 
 
 **cd~/iot and cd*3**
 
