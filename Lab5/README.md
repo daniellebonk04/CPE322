@@ -19,3 +19,4 @@ Subsequently, two separate Windows terminal instances were launched, each runnin
 
 ![alt text](pubcpu.png)
 
+![alt text](pt1.png)
