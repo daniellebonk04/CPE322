@@ -31,9 +31,9 @@ The second script, hello.js, was executed using the same process with the node c
 
 The third script, http.js, served a dynamic webpage that displayed the number of times the page had been accessed. Each time the page was refreshed or revisited, the counter incremented and updated both on the webpage and in the terminal where the script was running. Notably, the counter maintained its state across page closures, indicating that the count was stored and managed on the server side rather than being reset with each client session.
 
-![alt text](.png)
+![alt text](refreshedpt1.png)
 
-![alt text](.png)
+![alt text](refreshed.png)
 
 ---
 
