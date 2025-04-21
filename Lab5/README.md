@@ -8,6 +8,7 @@ The lab commenced with the installation of the Paho-MQTT library via pip, employ
 The installation process completed without errors, as confirmed by the terminal output.
 
 ![alt text](installation.png)
+Then git clone the necessary repository.
 ![alt text](gitclone.png)
 
 ---
