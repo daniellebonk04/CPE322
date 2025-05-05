@@ -13,4 +13,4 @@ The lab began by copying the intrusiondetection.yang file into the demo director
 
 After the .uml file was generated, it was processed using PlantUML to visualize the data model as a .png image. This step completed successfully, resulting in a clear graphical representation of the data model. The final visualized image was produced without errors and is displayed as intended.
 
-![Half Adder](Lab9.png)
+![Half Adder](lab9.png)
