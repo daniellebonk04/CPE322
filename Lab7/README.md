@@ -20,7 +20,7 @@ The necessary Python files, thingspeak_cpu_loop.py and thingspeak_feed.py, were 
 
 Install gspread and oauth2client
 
-![Half Adder](thingspeakgraph.png)
+![Half Adder](install.png)
 
 The second part of the lab began with the creation of a new Google Cloud project named cpudata, where the Google Drive and Google Sheets APIs were enabled. Instead of using an API key, a service account was created to automate interactions with a Google Sheet. The service account's credentials were downloaded as a .json key file, which, along with the cpu_spreadsheet.py script, was placed into a demo directory.
 
@@ -28,4 +28,4 @@ A new Google Sheet, also named cpudata, was created using the primary Google acc
 
 The cpu_spreadsheet.py script was then executed from the demo directory. It began collecting, printing, and uploading system CPU and memory usage data, inserting the information into new rows of the cpudata spreadsheet via the authorized service account and Google Cloud APIs.
 
-![Half Adder](thingspeakgraph.png)
+![Half Adder](cpu.png)
